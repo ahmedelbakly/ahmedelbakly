@@ -15,6 +15,11 @@
 <p>
   Experienced MERN Stack Developer with over 4 years of experience in building scalable web applications. Skilled in both front-end and back-end integration, and passionate about writing clean, maintainable code. Strong problem-solving abilities with a focus on enhancing user experience and collaborating with cross-functional teams.
 </p>
+<p>
+  <bold>
+    Phone : 01092487660
+  </bold>
+</p>
 
 
 

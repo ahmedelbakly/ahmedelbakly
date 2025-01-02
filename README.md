@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Ahmed Elbakly
 
 ## 🌟 About Me
-Experienced MERN Stack Developer with over 4 years of experience in building scalable web applications. Passionate about creating clean, maintainable code and enhancing user experience.
-
+Experienced MERN Stack Developer with over 4 years of expertise in designing and building scalable, high-performance web applications. Passionate about writing clean, maintainable code, optimizing user experiences, and leveraging modern technologies to deliver impactful solutions.
 ## 🚀 Skills
 
 <div align="left">

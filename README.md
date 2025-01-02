@@ -6,19 +6,20 @@ Experienced MERN Stack Developer with over 4 years of experience in building sca
 ## 🚀 Skills
 
 <div align="left">
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React" />
   <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" alt="Next.js" />
+   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express.js" />
+  <img src="https://img.shields.io/badge/-Nest.js-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" alt="Nest.js" />
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" alt="Redux" />
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/-Material%20UI-0081CB?logo=mui&logoColor=white&style=for-the-badge" alt="Material UI" />
   <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/-Chakra%20UI-319795?logo=chakra-ui&logoColor=white&style=for-the-badge" alt="Chakra UI" />
   <img src="https://img.shields.io/badge/-Chart.js-FF6384?logo=chartdotjs&logoColor=white&style=for-the-badge" alt="Chart.js" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express.js" />
-  <img src="https://img.shields.io/badge/-Nest.js-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" alt="Nest.js" />
+ 
   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" />
   <img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge" alt="SQL" />
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL" />

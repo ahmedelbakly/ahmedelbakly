@@ -52,7 +52,7 @@ Contributed as a backend developer focusing on:
 - Real-time data processing
 - Performance optimization
 
-Additional projects can be found in my [GitHub repositories](https://github.com/ahmedelbakly).
+Additional projects can be found in my [GitHub repositories](https://github.com/ahmedelbakly?tab=repositories).
 
 ## 🌐 Find Me Online
 - LinkedIn: [linkedin.com/in/elbaklymern](https://linkedin.com/in/elbaklymern)

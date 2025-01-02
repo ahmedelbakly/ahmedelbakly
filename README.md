@@ -7,7 +7,7 @@ Experienced MERN Stack Developer with over 4 years of expertise in designing and
 <div align="left">
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React" />
   <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" alt="Next.js" />
-   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" />
   <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express.js" />
   <img src="https://img.shields.io/badge/-Nest.js-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" alt="Nest.js" />
   <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" />
@@ -18,7 +18,6 @@ Experienced MERN Stack Developer with over 4 years of expertise in designing and
   <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/-Chakra%20UI-319795?logo=chakra-ui&logoColor=white&style=for-the-badge" alt="Chakra UI" />
   <img src="https://img.shields.io/badge/-Chart.js-FF6384?logo=chartdotjs&logoColor=white&style=for-the-badge" alt="Chart.js" />
- 
   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" />
   <img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge" alt="SQL" />
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL" />
@@ -37,7 +36,9 @@ Experienced MERN Stack Developer with over 4 years of expertise in designing and
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-Fahd-6A0DAD?logo=Fahd&logoColor=white&style=for-the-badge" alt="Fahd" />
 </div>
+
 
 ## 💻 Projects
 ### [Coonex Real Estate Management System](https://crm.coonex.io)

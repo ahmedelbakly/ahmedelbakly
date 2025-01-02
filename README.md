@@ -42,6 +42,7 @@ Experienced MERN Stack Developer with over 4 years of experience in building sca
 ## 💻 Projects
 ### [Coonex Real Estate Management System](https://crm.coonex.io)
 A comprehensive platform for managing real estate sales with features like:
+- CRM and CRM  and Admin dashboard
 - Property management dashboards
 - Sales analytics with Chart.js
 - Lead tracking and automated notifications
